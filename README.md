@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=shubhamchakraborty12&show_icons=true&theme=tokyonight" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamchakraborty12&show_icons=true&theme=tokyonight" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamchakraborty12&theme=tokyonight" />
 </p>
@@ -33,6 +33,13 @@
 ## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamchakraborty12&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubhamchakraborty12/shubhamchakraborty12/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
