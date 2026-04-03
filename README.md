@@ -37,13 +37,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shubhamchakraborty12/shubhamchakraborty12/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 ## 🧠 Currently Exploring
 - 🤖 Machine Learning (ARIMA, LSTM, GBRT)
 - 🌐 Full Stack Development
